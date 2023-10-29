@@ -62,9 +62,6 @@ Task creation and management.
 Task prioritization.
 User-friendly and intuitive interface.
 
-## Screenshots
-![App Screenshot](/Users/admin/Desktop/dev/DoSomethingList/DoSomethingList/Other/Assets.xcassets/Screenshot%202023-10-16%20at%2012.36.30%20PM.imageset/Screenshot%202023-10-16%20at%2012.36.30%20PM.png)
-
 ## Contributing
 Contributions to DoSomethingList are welcome! If you would like to contribute, please follow these steps:
 
